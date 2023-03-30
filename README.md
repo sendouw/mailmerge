@@ -1,5 +1,7 @@
 # Mail Merge to Separate Files Macro for Microsoft Word
 
+### Author: Andy Sendouw
+
 This Microsoft Word macro automates the process of creating separate files for each record in a mail merge. It performs a mail merge using data from an Excel file and saves each merged document as a separate file in a specified folder, using a value from a specified field as part of the file name.
 
 ## Features
